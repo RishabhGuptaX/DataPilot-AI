@@ -1,0 +1,1 @@
+# Automated insight generation agent
